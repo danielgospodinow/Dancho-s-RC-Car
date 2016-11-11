@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dancho\'s RC Car Controller</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    06
+    <string name="Text">Status: -</string>
+    07
+    <string name="on">Turn On</string>
+    08
+    <string name="off">Turn Off</string>
+    09
+    <string name="List">List paired Devices</string>
+    10
+    <string name="Find">Search new Devices / Cancel</string>
+
+</resources>
