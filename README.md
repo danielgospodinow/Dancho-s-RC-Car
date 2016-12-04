@@ -1,4 +1,4 @@
-# Dancho's Bluetooth Remote Control Car <img src="http://i.imgur.com/h7RAoo8.png" width="70" height="70">
+# Dancho's Bluetooth Remote Control Car       <img src="http://i.imgur.com/h7RAoo8.png" width="70" height="70">
 **DBRCC** is an Arduino-based RC Car. This project includes my Android application for the bluetooth control and my Arduino code.
 
 ![alt tag] (http://i.imgur.com/Z3pu6bw.jpg)
